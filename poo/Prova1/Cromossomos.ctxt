@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Cromossomos
+comment1.params=QtdGene
+comment1.target=Cromossomos(int)
+comment2.params=alelo\ valor
+comment2.target=void\ setValorGene(int,\ int)
+comment3.params=alelo\ valor
+comment3.target=void\ setAlteraValorGene(int,\ int)
+comment4.params=alelo
+comment4.target=int\ getGene(int)
+comment5.params=
+comment5.target=Gene[]\ Clonar()
+comment6.params=outro
+comment6.target=int\ equals(Cromossomos)
+comment7.params=outro\ alelo
+comment7.target=void\ cruzaCromossomos(Cromossomos,\ int)
+numComments=8

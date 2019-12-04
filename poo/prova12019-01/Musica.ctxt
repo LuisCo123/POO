@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Musica
+comment1.params=titulo\ QtdArtistas\ artistas\ duracao\ genero\ campoHarmonico\ nomeGravadora
+comment1.target=Musica(java.lang.String,\ int,\ java.lang.String[],\ double,\ java.lang.String,\ char,\ java.lang.String)
+comment10.params=outra
+comment10.target=boolean\ equals(Musica)
+comment11.params=outra
+comment11.target=double\ proximity(Musica)
+comment2.params=
+comment2.target=java.lang.String\ getTitulo()
+comment3.params=
+comment3.target=int\ getSizeArtista()
+comment4.params=posicao
+comment4.target=java.lang.String\ getNomeArtista(int)
+comment5.params=
+comment5.target=char\ getCampoHarmonico()
+comment6.params=
+comment6.target=java.lang.String\ getNomeGravadora()
+comment7.params=
+comment7.target=java.lang.String\ getGenero()
+comment8.params=
+comment8.target=java.lang.String[]\ getTodosArtistas()
+comment9.params=
+comment9.target=double\ getDuracao()
+numComments=12

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Porta
+comment1.params=
+comment1.target=Porta()
+comment2.params=porta
+comment2.target=Porta(Porta)
+comment3.params=aberta
+comment3.target=Porta(boolean)
+comment4.params=aberta
+comment4.target=void\ setabrir(boolean)
+comment5.params=
+comment5.target=void\ setfechar()
+comment6.params=
+comment6.target=boolean\ isAberta()
+numComments=7

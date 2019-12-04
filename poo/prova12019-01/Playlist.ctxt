@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Playlist
+comment1.params=
+comment1.target=Playlist()
+comment2.params=
+comment2.target=int\ getQtdMusicas()
+comment3.params=musica
+comment3.target=void\ addMusica(Musica)
+comment4.params=
+comment4.target=Musica[]\ getListaMusicas()
+numComments=5

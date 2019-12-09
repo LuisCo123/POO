@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BaseDeDadosDeMusica
+comment1.params=
+comment1.target=BaseDeDadosDeMusica()
+comment2.params=
+comment2.target=int\ getQtdMusicas()
+comment3.params=titulo\ QtdArtistas\ artistas\ duracao\ genero\ campoHarmonico\ nomeGravadora
+comment3.target=void\ addMusica(java.lang.String,\ int,\ java.lang.String[],\ double,\ java.lang.String,\ char,\ java.lang.String)
+comment4.params=musica
+comment4.target=void\ addMusica(Musica)
+comment5.params=nome\ duracao\ outra
+comment5.target=Playlist\ playList(java.lang.String,\ double,\ Playlist)
+numComments=6

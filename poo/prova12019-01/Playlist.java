@@ -1,8 +1,10 @@
 
 public class Playlist{
+    private String nome = new String();
     private Musica[] musicas;
     
-    public Playlist(){
+    public Playlist(String nome){
+        this.nome = nome;
         musicas = new Musica [0];
     };
     public int getQtdMusicas(){
@@ -15,6 +17,9 @@ public class Playlist{
             novo[iCont] = this.musicas[iCont];
         novo[iCont] = musica;
         this.musicas = novo;        
+    }
+    public Musica getUmaMusica(int posicao){
+        return musicas[posicao];
     }
     public Musica[] getListaMusicas(){
         return musicas;

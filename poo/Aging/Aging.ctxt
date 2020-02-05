@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Aging
+comment1.params=
+comment1.target=Aging()
+comment2.params=pasta
+comment2.target=void\ zerar(int[])
+comment3.params=valores
+comment3.target=void\ setValor(int[])
+comment4.params=pasta
+comment4.target=void\ trocar(int[])
+comment5.params=
+comment5.target=void\ swap()
+comment6.params=valores
+comment6.target=int\ menor(int[])
+comment7.params=pasta
+comment7.target=int\ somar(int[])
+numComments=8

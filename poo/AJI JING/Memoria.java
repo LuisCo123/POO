@@ -43,10 +43,15 @@ public class Memoria{
     }
     
     private void somar(int[] numeros, int[][] past){
-        for(int i = 0; i < this.lin; i++)
-            for(int j = 0; j < this.col; j++){
-                numeros[i] += past[i][j];
-            } 
+        int expoente;
+        for(int i = 0; i < this.lin; i++){
+            expoente = 0;
+            for(int j = this.col - 1; j >= 0; j--){
+                numeros[i] += past[i][j] * (Math.pow(2, expoente));
+                expoente ++; 
+            }
+            System.out.println(numeros[i]);
+        }
     }
     
     private int menor(int[] numeros){
@@ -56,5 +61,4 @@ public class Memoria{
             
         return indice;
     }
-   
 }

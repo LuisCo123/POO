@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Memoria
+comment1.params=numPastas
+comment1.target=Memoria(int)
+comment2.params=past
+comment2.target=void\ zerar(int[][])
+comment3.params=indice
+comment3.target=void\ zerar(int)
+comment4.params=valores
+comment4.target=void\ setValor(int[])
+comment5.params=past
+comment5.target=void\ trocar(int[][])
+comment6.params=
+comment6.target=void\ swapOut()
+comment7.params=numeros\ past
+comment7.target=void\ somar(int[],\ int[][])
+comment8.params=numeros
+comment8.target=int\ menor(int[])
+numComments=9

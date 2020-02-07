@@ -50,7 +50,6 @@ public class Memoria{
                 numeros[i] += past[i][j] * (Math.pow(2, expoente));
                 expoente ++; 
             }
-            System.out.println(numeros[i]);
         }
     }
     
@@ -61,4 +60,17 @@ public class Memoria{
             
         return indice;
     }
+    
+    public int[][] getPasta(){
+        return pastas;
+    }
+    
+    /*public void GetMatriz(){
+        int matriz[][] = this.getPasta();
+        for(int i = 0; i < matriz.length; i++){
+            System.out.print("\n" + "Pasta " + "[ " + i + " ] = " );
+            for(int j = 0; j< matriz[i].length; j++)
+                System.out.print(matriz[i][j] + " | " );
+        }
+    }*/
 }

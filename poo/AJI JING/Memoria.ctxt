@@ -16,4 +16,6 @@ comment7.params=numeros\ past
 comment7.target=void\ somar(int[],\ int[][])
 comment8.params=numeros
 comment8.target=int\ menor(int[])
-numComments=9
+comment9.params=
+comment9.target=int[][]\ getPasta()
+numComments=10

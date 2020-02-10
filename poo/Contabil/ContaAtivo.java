@@ -6,6 +6,12 @@ public class ContaAtivo extends Contas{
     public ContaAtivo(String nome){
         super(nome);
     }
+    public void creditar(double valor){
+        this.setSaldo(this.getSaldo() - valor);
+    }
     
+    public void debitar(double valor){
+        this.setSaldo(this.getSaldo() + valor);
+    }
    
 }

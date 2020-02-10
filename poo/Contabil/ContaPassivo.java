@@ -5,11 +5,12 @@ public class ContaPassivo extends Contas{
         super(nome);
     }
     
-    public void debitar(double valor){
-            super.creditar(valor);
-        }
     public void creditar(double valor){
-            super.debitar(valor);
-        }
+        this.setSaldo(this.getSaldo() + valor);
+    }
+    
+    public void debitar(double valor){
+        this.setSaldo(this.getSaldo() - valor);
+    }
     
 }

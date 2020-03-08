@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ConversorCor
+comment1.params=cor
+comment1.target=Pixel\ converter(Pixel)
+comment2.params=dimensaoX\ dimensaoY
+comment2.target=Mapa\ getNovoMapa(int,\ int)
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RGB
+comment1.params=red\ green\ blue
+comment1.target=RGB(double,\ double,\ double)
+comment2.params=red
+comment2.target=void\ setRed(double)
+comment3.params=green
+comment3.target=void\ setGreen(double)
+comment4.params=blue
+comment4.target=void\ setBlue(double)
+comment5.params=
+comment5.target=double\ getLuminosidade()
+numComments=6

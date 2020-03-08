@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Mapa
+comment1.params=
+comment1.target=Pixel[][]\ getMapa()
+comment2.params=
+comment2.target=int\ getAltura()
+comment3.params=
+comment3.target=int\ getLargura()
+comment4.params=fragmento
+comment4.target=double\ getSimilaridade(Fragmento)
+comment5.params=dimensaoX\ dimensaoY
+comment5.target=Pixel\ getPixel(int,\ int)
+comment6.params=dimensaoX\ dimensaoY\ pixel
+comment6.target=void\ setPixel(int,\ int,\ Pixel)
+numComments=7

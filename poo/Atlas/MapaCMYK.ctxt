@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MapaCMYK
+comment1.params=dimensaoX\ dimensaoY
+comment1.target=MapaCMYK(int,\ int)
+comment2.params=
+comment2.target=Pixel[][]\ getMapa()
+comment3.params=dimensaoX\ dimensaoY\ pixel
+comment3.target=void\ setPixel(int,\ int,\ Pixel)
+comment4.params=
+comment4.target=int\ getAltura()
+comment5.params=
+comment5.target=int\ getLargura()
+comment6.params=fragmento
+comment6.target=double\ getSimilaridade(Fragmento)
+comment7.params=dimensaoX\ dimensaoY
+comment7.target=Pixel\ getPixel(int,\ int)
+numComments=8

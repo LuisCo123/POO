@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Fragmento
+comment1.params=dimensaoX\ dimensaoY
+comment1.target=Fragmento(int,\ int)
+comment2.params=
+comment2.target=int\ getAltura()
+comment3.params=
+comment3.target=int\ getLargura()
+comment4.params=posicaoX\ posicaoY
+comment4.target=Pixel\ getpixel(int,\ int)
+numComments=5
